@@ -1,6 +1,6 @@
 <h1 align="center">Northwind-Database-SQL-Project</h1>
 
-**Northwind Database is Excellent ERP Schema based DB where we will perform various SQL Operations to get the required data from the same. ** 
+**Northwind Database is Excellent ERP Schema based DB where we will perform various SQL Operations to get the required data from the same.** 
 
 Database used from SkilloVilla, accessible to Students only.
 
